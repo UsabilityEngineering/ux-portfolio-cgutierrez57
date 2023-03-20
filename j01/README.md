@@ -9,3 +9,4 @@ For new users and for those who are trying to look for an easy solution, there a
 ![My Image](/assets/deck_screenshot1.jpeg)
 
 For experienced users the device allows you to re-map everything however you see fit for it to be the most optimal experience for yourself.
+![My Image](/assets/deck_screenshot2.jpeg)
