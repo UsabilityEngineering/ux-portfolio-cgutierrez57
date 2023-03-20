@@ -7,8 +7,8 @@ I already have experience with the software engineering class so this is going t
 
 ## UX Team Project
 
-Coming soon.
+[Read about my UX Team Project](https://usabilityengineering.github.io/GroupActivity/)
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with the Steam Deck](j01/)
