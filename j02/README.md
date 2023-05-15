@@ -2,7 +2,7 @@
 
 ## My UX Experience with the Playstation 5
 
-###Crispin Gutierrez, May 15th 2023
+### Crispin Gutierrez, May 15th 2023
 
 I was lucky enough to pick up one of these at launch. While the new console experience has somewhat worn off, some of its quirks and features are interesting to look at from a UX perspective.
 To start I wanted to look at the device's outward appearance before looking at the UI.
