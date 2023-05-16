@@ -12,4 +12,4 @@ I already have experience with the software engineering class so this is going t
 ## UX Journal
 
 [Read about my experience with the Steam Deck](j01/)
-[Read about my experience with ](j02/)
+  [Read about my experience with the Playstation 5](j02/)
