@@ -6,7 +6,7 @@
 
 I was lucky enough to pick up one of these at launch. While the new console experience has somewhat worn off, some of its quirks and features are interesting to look at from a UX perspective.
 
-<img src="/assets/IMG_1016.jpg" class="img-responsive" alt=""> </div>
+<img src="assets/IMG_1016.jpg" class="img-responsive" alt=""> </div>
 To start I wanted to look at the device's outward appearance before looking at the UI.
 Coming from prior generations all playstations had clearly distinctly labeled buttons that are usually different in size and placement that tell you whether to power on/off or eject a disc. The playstation 5 on the other hand does not make it as clear, the two buttons the device are not labeled rather the label is right next to them both lightly engraved into the device. Because the sheet of plastic that it's engraved into is a dark black color and the shape of the device shading the overtop the buttons even further it is extremely hard to tell which one is for power and which one is for eject. On top of that both buttons appear right next to each other and are the same size making the difference between the two even harder to tell apart without having to shine a flashlight on it. Sometimes when I power it off something I don't want to eject will eject and when I try to eject I might turn it off instead, on accident. The disc drive itself is clearly an afterthought with its awkward tacked-on placement and the lack of intentional design with button size and placement that we saw with older generations of playstation consoles. This model feels like not a whole lot of care was put into making the device error tolerant to prevent users from making mistakes like these.
 ![my image](/assets/IMG_1015.jpg)
